@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/lib/spark/conf'
+let g:netrw_dirhist_2='/Users/rjain/workspace/qbol/hustler/lib/py/hadoop_setup'
+let g:netrw_dirhist_3='/Users/rjain/workspace/tests/hive_customer_workloads'
+let g:netrw_dirhist_4='/Users/rjain/workspace/qbol/qweez'
+let g:netrw_dirhist_5='/tmp'
+let g:netrw_dirhist_6='/Users/rjain/shudhu_stuff'
